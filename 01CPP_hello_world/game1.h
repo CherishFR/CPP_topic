@@ -1,8 +1,0 @@
-//
-// Created by LoveTt on 2019/3/3.
-//
-
-#ifndef INC_01CPP_HELLO_WORLD_GAME1_H
-#define INC_01CPP_HELLO_WORLD_GAME1_H
-
-#endif //INC_01CPP_HELLO_WORLD_GAME1_H
