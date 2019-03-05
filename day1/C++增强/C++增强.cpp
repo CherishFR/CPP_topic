@@ -45,7 +45,16 @@ void  test04() {
 	cout << "b=" << b << endl;
 }
 
+// 7.const增强，C++默认const为内部链接，只能文件内调用
+void test05() {
+	const int m_A = 10;  // C++中const不会分配内存地址
+	int *p = (int *)&m_A;
+	*p = 200;
+	cout << "*p=" << *p << endl;
+	cout << "m_A=" << m_A << endl;  // 常量m_A无法进行修改
+}
+
 int main() {
-	test04();
+	test05();
 	return 0;
 }
