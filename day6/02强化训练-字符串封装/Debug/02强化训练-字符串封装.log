@@ -1,0 +1,6 @@
+﻿  02强化训练-字符串封装.cpp
+d:\cpp_topic\day6\02强化训练-字符串封装\02强化训练-字符串封装.cpp(12): error C2563: 在形参表中不匹配
+d:\cpp_topic\day6\02强化训练-字符串封装\02强化训练-字符串封装.cpp(12): error C2568: “<<”: 无法解析函数重载
+  d:\cpp_topic\day6\02强化训练-字符串封装\02强化训练-字符串封装.cpp(12): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+  MyString.cpp
+  正在生成代码...
