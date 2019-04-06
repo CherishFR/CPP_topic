@@ -1,0 +1,12 @@
+﻿  02多态案例-计算器案例.cpp
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(57): error C2059: 语法错误:“user-defined literal”
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(60): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(94): error C2039: “setv1”: 不是“abstractCalculator”的成员
+  c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(45): note: 参见“abstractCalculator”的声明
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(96): error C2039: “getResult”: 不是“abstractCalculator”的成员
+  c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(45): note: 参见“abstractCalculator”的声明
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(100): error C2039: “setv1”: 不是“abstractCalculator”的成员
+  c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(45): note: 参见“abstractCalculator”的声明
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(102): error C2039: “getResult”: 不是“abstractCalculator”的成员
+  c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(45): note: 参见“abstractCalculator”的声明
+c:\users\47115\cpp_topic\day7\02多态案例-计算器案例\02多态案例-计算器案例.cpp(107): warning C4551: 缺少参数列表的函数调用
