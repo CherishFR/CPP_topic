@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01函数模板的基本使用", "01函数模板的基本使用\01函数模板的基本使用.vcxproj", "{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02利用模板实现char和int的数组排序", "02利用模板实现char和int的数组排序\02利用模板实现char和int的数组排序.vcxproj", "{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03函数模板与普通函数的区别以及调用规则", "03函数模板与普通函数的区别以及调用规则\03函数模板与普通函数的区别以及调用规则.vcxproj", "{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4模板的局限性以及解决", "4模板的局限性以及解决\4模板的局限性以及解决.vcxproj", "{5E35F08D-EE1F-490E-B98E-2B82C24B0763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Debug|x64.ActiveCfg = Debug|x64
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Debug|x64.Build.0 = Debug|x64
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Debug|x86.Build.0 = Debug|Win32
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Release|x64.ActiveCfg = Release|x64
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Release|x64.Build.0 = Release|x64
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Release|x86.ActiveCfg = Release|Win32
+		{FC8402F0-A6DF-45A3-8DE4-BDD30D1B1747}.Release|x86.Build.0 = Release|Win32
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Debug|x64.ActiveCfg = Debug|x64
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Debug|x64.Build.0 = Debug|x64
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Debug|x86.Build.0 = Debug|Win32
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Release|x64.ActiveCfg = Release|x64
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Release|x64.Build.0 = Release|x64
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Release|x86.ActiveCfg = Release|Win32
+		{105118D5-54A0-4EEA-87A6-8423A2C6F7F4}.Release|x86.Build.0 = Release|Win32
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Debug|x64.ActiveCfg = Debug|x64
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Debug|x64.Build.0 = Debug|x64
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Debug|x86.Build.0 = Debug|Win32
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Release|x64.ActiveCfg = Release|x64
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Release|x64.Build.0 = Release|x64
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Release|x86.ActiveCfg = Release|Win32
+		{429C007B-6FBC-4ED2-B610-94DAAC63DFD1}.Release|x86.Build.0 = Release|Win32
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Debug|x64.ActiveCfg = Debug|x64
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Debug|x64.Build.0 = Debug|x64
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Debug|x86.Build.0 = Debug|Win32
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Release|x64.ActiveCfg = Release|x64
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Release|x64.Build.0 = Release|x64
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Release|x86.ActiveCfg = Release|Win32
+		{5E35F08D-EE1F-490E-B98E-2B82C24B0763}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98749CB-6069-4E15-9CB7-C30E0DC2A877}
+	EndGlobalSection
+EndGlobal
