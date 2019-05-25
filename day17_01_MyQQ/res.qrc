@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/1.png</file>
+        <file>icon/2.png</file>
+        <file>icon/bold.png</file>
+        <file>icon/Cherry.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/color.png</file>
+        <file>icon/dr.png</file>
+        <file>icon/ftbz.png</file>
+        <file>icon/italic.png</file>
+        <file>icon/jj.png</file>
+        <file>icon/lswh.png</file>
+        <file>icon/qmnn.png</file>
+        <file>icon/qq.png</file>
+        <file>icon/save.png</file>
+        <file>icon/spqy.png</file>
+        <file>icon/timg.jpg</file>
+        <file>icon/under.png</file>
+        <file>icon/wy.png</file>
+        <file>icon/x.png</file>
+        <file>icon/ymrl.png</file>
+    </qresource>
+</RCC>
